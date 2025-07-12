@@ -118,38 +118,18 @@ Participei do programa **Novos Talentos em TI** na **Univille**, onde me qualifi
 <br/>
 
 ## 📫 Contato Profissional | Professional Contact
-<br>
+
 <p align="left">
-    <a href="mailto:arthurleonardo.strobel@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/arthurstrobel-desenvolvedorfrontend/" target="_blank" rel="noopener noreferrer">
     <img 
-      alt="Gmail" 
-      title="Enviar email para mim" 
-      src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
-      width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+      alt="LinkedIn"
+      title="Meu perfil no LinkedIn"
+      width="40" 
       height="40"
     />
   </a>
-<a href="https://www.linkedin.com/in/arthurstrobel-desenvolvedorfrontend/" target="_blank" rel="noopener noreferrer">
-  <img 
-    alt="LinkedIn" 
-    title="Meu perfil no LinkedIn" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-    width="40" 
-    height="40" 
-  />
-</a>
-<a href="https://wa.me/" target="_blank" rel="noopener noreferrer">
-  <img 
-    alt="WhatsApp" 
-    title="Chame no WhatsApp" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" 
-    width="40" 
-    height="40" 
-  />
-</a>
-</p>
- 
-
+<p>
 
 ### 📊 Estatísticas
 
