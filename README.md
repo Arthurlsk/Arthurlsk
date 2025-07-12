@@ -8,7 +8,7 @@ Olá! Me chamo **Arthur Leonardo Strobel Kipper**, sou um desenvolvedor em const
 Participei do programa **Novos Talentos em TI** na **Univille**, onde me qualifiquei profissionalmente na área de Tecnologia da Informação, com foco em **Java**. Nesse curso, aprendi e adquiri conhecimentos práticos em **Spring Boot**, além de outros conceitos essenciais para desenvolvimento backend.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/arthurstrobel-desenvolvedorfrontend/" target="blank">
+    <a href="https://www.linkedin.com/in/arthurstrobel-desenvolvedorfrontend/" target="_blank">
         <img 
             alt="Linkedin" 
             title="Inscreva-se no meu canal" 
