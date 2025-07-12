@@ -103,7 +103,8 @@ Participei do programa **Novos Talentos em TI** na **Univille**, onde me qualifi
 
 ## 📫 Contato Profissional | Professional Contact
 <br>
-<p align="left">
+<p align="left" style="display: flex; align-items: center; gap: 10px;">
+
   <a href="https://www.linkedin.com/in/arthurstrobel-desenvolvedorfrontend/" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
@@ -111,17 +112,18 @@ Participei do programa **Novos Talentos em TI** na **Univille**, onde me qualifi
       title="Meu perfil no LinkedIn"
       width="40" 
       height="40"
+      style="vertical-align: middle;"
     />
   </a>
 
- <a href="mailto:seuemail@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:seuemail@gmail.com" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
       alt="Gmail"
       title="Enviar email para mim"
       width="40" 
       height="40"
-      style="margin-right: 10px;"
+      style="vertical-align: middle;"
     />
   </a>
 
