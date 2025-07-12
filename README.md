@@ -7,16 +7,6 @@
 Olá! Me chamo **Arthur Leonardo Strobel Kipper**, sou um desenvolvedor em constante aprendizado e apaixonado por tecnologia. Atualmente curso **Desenvolvimento Web**, e venho construindo minha trajetória com foco em desenvolvimento backend, principalmente utilizando a linguagem **Java** ☕.<br/><br/>
 Participei do programa **Novos Talentos em TI** na **Univille**, onde me qualifiquei profissionalmente na área de Tecnologia da Informação, com foco em **Java**. Nesse curso, aprendi e adquiri conhecimentos práticos em **Spring Boot**, além de outros conceitos essenciais para desenvolvimento backend.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/arthurstrobel-desenvolvedorfrontend/" target="_blank">
-        <img 
-            alt="Linkedin" 
-            title="Inscreva-se no meu canal" 
-            src="file:///C:/Users/arthu/Downloads/linkedin%20(1).svg"
-        />
-    </a>
-  
-</p>
 
 ---
 
@@ -110,6 +100,33 @@ Participei do programa **Novos Talentos em TI** na **Univille**, onde me qualifi
 
 <br/>
 <br/>
+
+## 📫 Contato Profissional | Professional Contact
+<br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/arthurstrobel-desenvolvedorfrontend/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+      alt="LinkedIn"
+      title="Meu perfil no LinkedIn"
+      width="40" 
+      height="40"
+    />
+  </a>
+
+ <a href="mailto:seuemail@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
+      alt="Gmail"
+      title="Enviar email para mim"
+      width="40" 
+      height="40"
+      style="margin-right: 10px;"
+    />
+  </a>
+
+</p>
+
 
 ### 📊 Estatísticas
 
