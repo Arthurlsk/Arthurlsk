@@ -4,7 +4,7 @@
 
 ## 👋 Sobre Mim | About Me
 
-Olá! Me chamo **Arthur Leonardo Strobel Kipper**, sou um desenvolvedor em constante aprendizado e apaixonado por tecnologia. Atualmente curso **Desenvolvimento Web**, e venho construindo minha trajetória com foco em desenvolvimento backend, principalmente utilizando a linguagem **Java** ☕.<br/><br/>
+Olá! Me chamo **Arthur Leonardo Strobel Kipper**, sou um desenvolvedor em constante aprendizado e apaixonado por tecnologia. Atualmente curso **Desenvolvimento Web**, e venho construindo minha trajetória com foco em desenvolvimento front-end, principalmente utilizando a linguagem **JavaScript** ☕.<br/><br/>
 Participei do programa **Novos Talentos em TI** na **Univille**, onde me qualifiquei profissionalmente na área de Tecnologia da Informação, com foco em **Java**. Nesse curso, aprendi e adquiri conhecimentos práticos em **Spring Boot**, além de outros conceitos essenciais para desenvolvimento backend.
 <p align="left">
 <a href="https://github.com/Arthurlsk?tab=repositories&sort=stargazers" target="_blank" >
